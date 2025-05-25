@@ -1,3 +1,4 @@
+![logo](https://github.com/prakashkumar7897/prakashkumar7897/blob/main/data%20science.jpg)
 <h1 align="center">Hi 👋, I'm Prakash Kumar</h1>
 <h3 align="center">A passionate Data scince learner from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
